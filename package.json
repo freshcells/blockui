@@ -1,5 +1,6 @@
 {
   "name": "blockUI",
+  "version": "1.0.0",
   "title": "BlockUI",
   "description": "Simulate synchronous ajax by blocking - not locking - the UI. This plugin lets you block user interaction with the page or with a specific element on the page. Also great at displaying modal dialogs.",
   "dependencies": {
